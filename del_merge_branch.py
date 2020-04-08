@@ -13,3 +13,7 @@
 # git branch -D <branch_name>
 
 ##write you code here
+
+#''----------Additional Instruction-----------''
+#merge combines branch data and hidtory together
+#both branch will point at the same commit
